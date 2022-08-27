@@ -23,7 +23,13 @@ Curated list of awesome argon2 related things
 - [argon2-browser - Argon2 library compiled for browser runtime](https://github.com/antelle/argon2-browser)
 
   Multiple versions of Argon2 (including WASM) for the browser.
+  
+### Rust
 
+- [rust-argon2 - Argon2 implementation is Rust](https://github.com/sru-systems/rust-argon2)
+  
+  Rust implementation of Argon2 to use in Rust projects.  
+  
 ## Tools
 
 - [Argon2 calibration tool](https://github.com/bburman/Twelve21.PasswordStorage)
